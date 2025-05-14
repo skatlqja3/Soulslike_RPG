@@ -1,0 +1,12 @@
+InputKey,SlotName,SkillID,Description
+1,Guard,Warrior_Guard_Lv1,기본 방어 자세. 성장 시 패링과 리턴 효과 추가
+2,Dash Attack,Warrior_Charge_Lv1,적에게 빠르게 돌진해 피해를 입힌다
+3,CC Skill,Warrior_CrowdControl_Lv1,"상태 이상 기술 (다운, 기절, 그로기 중 하나)"
+4,Ultimate,Warrior_Ultimate_Lv1,전사의 필살기. 강력한 연출과 피해
+Q,Evade Left,Warrior_EvadeLeft_Lv1,왼쪽으로 회피. 저항 프레임 적용
+E,Evade Right,Warrior_EvadeRight_Lv1,오른쪽으로 회피. 저항 프레임 적용
+Tab,Special Action,Warrior_TabSkill_Lv1,임시 슬롯 - 추후 스킬 배정 예정
+Z,Extra Z,Warrior_ZSkill_Lv1,임시 슬롯 - 추후 스킬 배정 예정
+X,Extra X,Warrior_XSkill_Lv1,임시 슬롯 - 추후 스킬 배정 예정
+C,Extra C,Warrior_CSkill_Lv1,임시 슬롯 - 추후 스킬 배정 예정
+V,Extra V,Warrior_VSkill_Lv1,임시 슬롯 - 추후 스킬 배정 예정

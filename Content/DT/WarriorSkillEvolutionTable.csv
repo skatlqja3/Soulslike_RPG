@@ -1,0 +1,8 @@
+BaseSkillID,EvolvedSkillID,UnlockFloor,AdditionalEffect
+Warrior_Guard_Lv1,Warrior_Guard_Lv2,10,패링 기능 추가 (정확한 타이밍에 방어 시 적 스턴)
+Warrior_Guard_Lv2,Warrior_Guard_Lv3,20,패링 성공 시 강력한 리턴 공격
+Warrior_Charge_Lv1,Warrior_Charge_Lv2,10,돌진 후 적을 넘어뜨림 (넉백)
+Warrior_Charge_Lv2,Warrior_Charge_Lv3,20,돌진 시 적들 사이를 관통하며 연속 타격
+Warrior_CrowdControl_Lv1,Warrior_CrowdControl_Lv2,10,기절 지속 시간 증가
+Warrior_CrowdControl_Lv2,Warrior_CrowdControl_Lv3,20,상태이상 확률 증가 및 광역 적용
+Warrior_Ultimate_Lv1,Warrior_Ultimate_Lv2,20,필살기 연출 강화 및 피해 증가

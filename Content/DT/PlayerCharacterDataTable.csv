@@ -1,0 +1,4 @@
+CharacterID,DisplayName,CharacterType,Description,MaxHP,Attack,Defense,CritRate,AttackSpeed,MoveSpeed,StartSkills,DefaultWeaponID,IsPlayable
+Warrior,전사,Melee,근거리에서 검을 사용해 안정적인 전투를 펼치는 전사,1500,120,100,5%,1.0,600,"['Slash', 'GuardBreak']",Sword01,True
+Gunner,총사,Ranged,총기를 사용해 원거리에서 빠르게 적을 제압하는 캐릭터,1200,100,80,10%,1.5,650,"['RapidShot', 'Roll']",Gun01,True
+Mage,마법사,Magic,강력한 마법으로 광역 공격과 상태 이상을 유도하는 캐릭터,1000,140,60,15%,1.2,600,"['Fireball', 'Blink']",Staff01,True

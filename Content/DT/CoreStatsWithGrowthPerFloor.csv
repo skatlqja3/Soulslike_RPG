@@ -1,4 +1,0 @@
-CharacterID,BaseHP,HPGrowthPerFloor,BaseMP,MPGrowthPerFloor,BaseStamina,StaminaGrowthPerFloor,BaseAttack,AttackGrowthPerFloor,BaseDefense,DefenseGrowthPerFloor,BaseSpeed,SpeedGrowthPerFloor,BaseCritRate,CritRateGrowthPerFloor,BaseCritDamage,CritDamageGrowthPerFloor
-Warrior,1500,50,200,5,150,4,120,8,100,6,600,2,5.0,0.2,150.0,1.0
-Gunner,1200,35,300,8,180,5,100,6,80,5,650,3,10.0,0.3,160.0,1.5
-Mage,1000,30,500,12,130,3,140,9,60,4,600,2,15.0,0.4,170.0,2.0
